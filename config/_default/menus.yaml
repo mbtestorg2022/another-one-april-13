@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 28b548c3-5431-4ad6-adea-86b4a5496197
+  name: page one link
+  url: /pages/page1
+  weight: 10
